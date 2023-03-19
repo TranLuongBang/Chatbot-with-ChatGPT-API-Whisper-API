@@ -3,7 +3,7 @@ import gradio as gr
 from pydub import AudioSegment
 
 
-openai.api_key = "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"
+openai.api_key = "add-your-api-key"
 
 message_history = []
 audio_history = []
