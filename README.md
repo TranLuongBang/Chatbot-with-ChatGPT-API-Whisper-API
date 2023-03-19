@@ -32,7 +32,7 @@ ffmpeg -version
 ```
 
 ### Usage
-1. Run the app: python chatapp.py
+1. Run the app: `python chatapp.py`
 
 2. Open a web browser and go to http://127.0.0.1:7860
 
