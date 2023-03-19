@@ -16,7 +16,7 @@ This is a chatbot application that uses ChatGPT API with `gpt-3.5-turbo` and Spe
 - A ChatGPT API key (sign up [here](https://auth0.openai.com/u/signup/identifier?state=hKFo2SAwZzlYR0pjYmpXNTZ4QTZYM2hISnZpVWM1OGRSclNLa6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEx5QzN1WTdSekxJRks1R0twRi1YajZkQ19rZ3RXR3ZJo2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q) for a free account)
 
 ### Installation
-1. Clone the repo `https://github.com/TranLuongBang/Chatbot-with-ChatGPT-API-Whisper-API`
+1. Clone the repo `git clone https://github.com/TranLuongBang/Chatbot-with-ChatGPT-API-Whisper-API`
 2. Navigate to the project directory: `cd Chatbot-with-ChatGPT-API-Whisper-API`
 3. Create environment and Install the requirements
 ```python
