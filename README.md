@@ -3,7 +3,7 @@ This is a chatbot application that uses ChatGPT API with `gpt-3.5-turbo` and Spe
 
 ### Features
 
-- Natural Language Processing (NLP) powered by ChatGPT API and GPT-2.5-turbo for generating responses to user input
+- Natural Language Processing (NLP) powered by ChatGPT API for generating responses to user input
 - Speech-to-Text transcription using Whisper API for allowing users to speak to the chatbot via a microphone
 - User-friendly web interface created with Gradio, a Python library for building customizable UI components
 - Flexible customization options for Gradio UI components, including text inputs, voice inputs, and dropdown menus
